@@ -24,6 +24,6 @@ while ($i<=40) {
 
 echo "\n";
 echo 'golden ratio: '.((1+sqrt(5))/2)."\n";
-echo 'the ratio of 2 consecutive Fibonacci numbers tends to the golden ratio as n incrases'."\n";
+echo 'the ratio of 2 consecutive Fibonacci numbers tends to the golden ratio as n increases'."\n";
 
 ?>
