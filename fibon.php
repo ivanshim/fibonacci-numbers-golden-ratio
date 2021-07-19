@@ -4,8 +4,6 @@
 // Ivan's bored doodlings
 // Ivan Shim 2021 July 20th
 
-echo 'fibonacci sequence: '."\n";
-
 $i = 1;
 $j = 0;
 $k = 1;
