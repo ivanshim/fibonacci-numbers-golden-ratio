@@ -9,6 +9,9 @@ echo 'fibonacci sequence: '."\n";
 $i = 1;
 $j = 0;
 $k = 1;
+
+echo 'index, fibonacci, ratio'."\n";
+
 while ($i<=40) {
   echo $i;
   $i++;
